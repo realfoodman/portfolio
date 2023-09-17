@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a software developer with a background in help desk support and technical writing. ",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "C#",
+    "PowerShell",
+    "Bash",
+    "JavaScript",
+    "Business process automation",
+    "Technical writing and editing"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I develop software with all kinds of users in mind. In my years working at two different help desks, I spent countless hours seeing how real people use their computers and phones. I've developed a deep sense of what people expect from software, and I always work to deliver what they expect."
 }
